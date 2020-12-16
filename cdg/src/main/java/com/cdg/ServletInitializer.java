@@ -1,4 +1,4 @@
-package com.cdg.cdg;
+package com.cdg;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

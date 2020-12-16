@@ -1,4 +1,4 @@
-package com.cdg.cdg.entities;
+package com.cdg.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

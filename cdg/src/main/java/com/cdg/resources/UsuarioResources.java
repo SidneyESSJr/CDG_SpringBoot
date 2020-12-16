@@ -1,6 +1,6 @@
-package com.cdg.cdg.resources;
+package com.cdg.resources;
 
-import com.cdg.cdg.entities.Usuario;
+import com.cdg.entities.Usuario;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

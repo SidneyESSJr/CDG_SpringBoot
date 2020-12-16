@@ -1,4 +1,4 @@
-package com.cdg.cdg.entities.enums;
+package com.cdg.entities.enums;
 
 public enum EnumOperacao {
 

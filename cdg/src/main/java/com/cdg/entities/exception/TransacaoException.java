@@ -1,4 +1,4 @@
-package com.cdg.cdg.entities.exception;
+package com.cdg.entities.exception;
 
 public class TransacaoException extends Exception {
 

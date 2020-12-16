@@ -1,4 +1,4 @@
-package com.cdg.cdg.entities;
+package com.cdg.entities;
 
 import java.time.LocalDateTime;
 
@@ -8,8 +8,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToOne;
 
-import com.cdg.cdg.entities.enums.*;
-import com.cdg.cdg.entities.exception.TransacaoException;
+import com.cdg.entities.enums.*;
+import com.cdg.entities.exception.TransacaoException;
 
 @Entity
 public class Operacao {
